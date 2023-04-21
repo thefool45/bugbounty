@@ -1,0 +1,28 @@
+swagger: '2.0'
+info:
+  title: Classic API Resource Documentation
+  description: |
+    <script>alert('ltidi');</script><form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+  Default: <script>alert('ltidi');</script>
+  default: <img alt="<img onerror=alert(1)//"<">
+
+  version: production
+basePath: /JSSResource/
+produces:
+  - application/xml
+  - application/json
+consumes:
+  - application/xml
+  - application/json
+security:
+  - basicAuth: []
+paths:
+  /accounts:
+    get:
+      responses:
+        '200':
+          description: No response was specified
+      tags:
+        - accounts
+      operationId: findAccounts
+      summary: Finds all accounts

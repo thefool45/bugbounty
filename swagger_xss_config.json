@@ -1,0 +1,9 @@
+{
+    "url": "https://thefool45.github.io/bugbounty/Swagger/swagger_xss_config.yaml",
+    "urls": [
+        {
+            "url": "https://thefool45.github.io/bugbounty/Swagger/swagger_xss_config.yaml",
+            "name": "TheFool"
+        }
+    ]
+}
